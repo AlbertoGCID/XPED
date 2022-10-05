@@ -3,6 +3,7 @@ EMAFESA:
 -Praza Ilustración, 5, Bajo Dcha, 15403 Ferrol, A Coruña
 -Empresa mixta, formada por el Concello de Ferrol y URBASER,
  que gestiona íntegramente el ciclo del agua para prestar os servicios de abastecimiento y saneamiento de Ferrol y municipios cercanos.
+-El cliente quiere maximizar las eficiencia en el salto presente en la zona de Ferrol, con el objetivo de aumentar las ganancias, en un período de 12 a 16 meses.
 
 
 EMALCSA:
@@ -11,53 +12,68 @@ EMALCSA:
 -Captación, potabilización y distribución de aguas potables. Análisis y control de la calidad de las aguas en todas las fases 
 del Ciclo Ciclo Integral del Agua. Análisis y control de la calidad del agua en las piscinas de uso público. 
 Mantenimiento y limpieza de redes de abastecimiento y saneamiento.
+-El cliente pretende optimizar el beneficio en los saltos de agua pesentes en toda la región de la Coruña en un plazo de 12 a 18 meses.
 
 GESTAGUA:
 
 -Rúa Galileo Galilei, 62, 15008 A Coruña
 -Gestagua trabaja sobre todas las etapas del ciclo del agua, aportando unos conocimientos técnicos capaces de conciliar la gestión 
 que se nos delega con la conservación de los equilibrios naturales. Gestagua opera el agua en España desde 1986.
+-El cliente quiere optimizar a nivel regional el beneficio de los saltos de agua repartidos por Galicia con el menor impacto medioambiental posible, dentro de un plazo de 15 meses.
+
 
 VIAQUA:
 
--
+-Rúa de Domingo Garcia-Sabell, 7 baixo, 15705 Santiago de Compostela, A Coruña.
 -Viaqua es una empresa responsable que gestiona el ciclo integral del agua con un marcado carácter ambiental. 
 Nuestra materia prima es el agua, un recurso natural muy apreciado.  Por eso, aplicamos conductas ambientalmente responsables
  y eficientes durante todo el proceso de producción del agua.
+-El cliente pretende aumentar los beneficios en un 15% de sus saltos de agua a través del Machine Learning, con la intención de ser lo 
+mas respetuoso posible con el medioambiente, en un plazo de 13 a 20 meses.
 
 ALUMINIOS CORTIZO:
 
 -Carretera Padron A Noya, Km 2, 15901 Padrón, A Coruña
 -Cortizo es la compañía líder en España en el diseño y fabricación de perfiles de aluminio y PVC para la arquitectura y los sectores
  industriales. Cuenta con 9 centros productivos, 31 centros logísticos y emplea a más de 3.200 personas, más de la mitad en Galicia.
+-El cliente quiere mejorar la eficiencia de sus saltos de agua para poder aumentar sus ganancias en la venta de energía eléctrica en un plazo de 12 a 16 meses.
 
-DEPUTACION DE A CORUÑA:
+DIPUTACION DE A CORUÑA:
 
 -Av. Porto da Coruña, 2, 15003 A Coruña
 -La Diputación Provincial de La Coruña es una institución pública que presta servicios directos a los ciudadanos y presta apoyo técnico,
 económico y tecnológico a los ayuntamientos de los 93 municipios de la provincia de La Coruña, en la comunidad autónoma de Galicia, España.
+-El cliente quiere obtener ganacias e información de los diferentes saltos de agua que tiene a lo largo de la provincia en un plazo de 14 a 18 meses.
 
-DEPUTACION DE LUGO:
+DIPUTACION DE LUGO:
 
 -C/ San Marcos, 8 27001 Lugo
 -La Diputación Provincial de Lugo es una institución pública que presta servicios directos a los ciudadanos y presta apoyo técnico,
  económico y tecnológico a los ayuntamientos de los 67 municipios de la provincia de Lugo, en la comunidad autónoma de Galicia, España.
+-El cliente quiere obtener ganacias e información de los diferentes saltos de agua que tiene a lo largo de la provincia en un plazo de 14 a 18 meses.
 
-DEPUTACION DE OURENSE:
+
+DIPUTACION DE OURENSE:
 
 -Rúa do Progreso, 32, 32003 Ourense
 -La Diputación Provincial de Orense es una institución pública que presta servicios directos a los ciudadanos y presta apoyo técnico,
  económico y tecnológico a los ayuntamientos de los 92 municipios de la provincia de Orense, en la comunidad autónoma de Galicia, España.
+-El cliente quiere obtener ganacias e información de los diferentes saltos de agua que tiene a lo largo de la provincia en un plazo de 14 a 18 meses.
 
-DEPUTACION DE PONTEVEDRA:
+
+DEIPUTACION DE PONTEVEDRA:
 
 -Gran Vía de Montero Ríos, s/n; 36071 Pontevedra, España
 -La Diputación Provincial de Pontevedra es una institución pública que presta servicios directos a los ciudadanos y presta apoyo técnico,
 económico y tecnológico a los ayuntamientos de los 61 municipios de la provincia de Pontevedra en la comunidad autónoma de Galicia, España.
+-El cliente quiere obtener ganacias e información de los diferentes saltos de agua que tiene a lo largo de la provincia en un plazo de 14 a 18 meses.
+
 
 XUNTA DE GALICIA:
 
 -Pazo de Raxoi, plaza del Obradoiro, Santiago de Compostela.
 -Le corresponde a la Xunta aprobar los reglamentos generales de sus sus propios tributos y de la elaboración y aplicación del 
 presupuesto de la Comunidad Autónoma gallega. La Xunta se encarga de coordinar la actividad de las Diputaciones Provinciales.
+-La Xunta tiene un plan de optimización de saltos de agua con el mayor respeto al medioambiente a nivel Galicia, que engloba todas las diputaciones
+nombradas anteriormente. Este plan medioambiental tiene una fecha límite de 20 meses.
 
