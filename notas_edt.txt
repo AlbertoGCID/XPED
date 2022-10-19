@@ -1,0 +1,13 @@
+incremental.
+recoger datos equipos y mostrarlos sin procesar
+crear una bd de eses datos, incluir unas consultas basicas q pueda ver el cliente
+q un usuario viera sus datos
+procesar datos
+con los dtaos procesados los enviamos a sus equipos
+
+
+analisis
+diseño
+codificacion y pruebas
+para cada una de las versiones.
+del edt cada rama es una version, y le haces los cuadritos.
